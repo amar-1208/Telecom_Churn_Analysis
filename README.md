@@ -18,10 +18,10 @@ Customer churn is one of the most costly problems in the telecom industry. This 
 ```
 telecom-churn-analysis/
 │
+├── Customer Churn.csv                     # Dataset 
+├── README.md
 ├── Telecom Churn Analysis.ipynb           # Main analysis notebook
-├── Customer Churn.csv                     # Dataset
-├── Telecom_Churn_Analysis_Summary.pdf     # One-page executive summary report
-└── README.md
+└── Telecom_Churn_Analysis_Summary.pdf     # One-page executive summary report
 ```
 
 ---
